@@ -1,0 +1,1 @@
+import{_ as a}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c,a as e,b as o}from"./app-6d2325bd.js";const r={},s=e("h1",{id:"官方商品特典",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#官方商品特典","aria-hidden":"true"},"#"),o(" 官方商品特典")],-1),n=[s];function _(i,d){return t(),c("div",null,n)}const h=a(r,[["render",_],["__file","Offical.html.vue"]]);export{h as default};
