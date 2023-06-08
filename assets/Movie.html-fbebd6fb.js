@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as a,a as e,b as r}from"./app-6d2325bd.js";const c={},s=e("h1",{id:"剧场版",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#剧场版","aria-hidden":"true"},"#"),r(" 剧场版")],-1),n=[s];function _(i,d){return o(),a("div",null,n)}const f=t(c,[["render",_],["__file","Movie.html.vue"]]);export{f as default};
